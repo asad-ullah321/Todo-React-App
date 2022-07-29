@@ -1,0 +1,9 @@
+.all{
+    border: solid;
+    border-width: 1px;
+    border-color: gray;
+    padding: 30px 1000px;
+    
+    
+    border-radius: 15px;
+}
